@@ -1,0 +1,15 @@
+C:\Users\Revision\source\repos\Matevosyan_4_107\Matevosyan_4_107\obj\Debug\net6.0\Matevosyan_4_107.csproj.AssemblyReference.cache
+C:\Users\Revision\source\repos\Matevosyan_4_107\Matevosyan_4_107\obj\Debug\net6.0\Matevosyan_4_107.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Revision\source\repos\Matevosyan_4_107\Matevosyan_4_107\obj\Debug\net6.0\Matevosyan_4_107.AssemblyInfoInputs.cache
+C:\Users\Revision\source\repos\Matevosyan_4_107\Matevosyan_4_107\obj\Debug\net6.0\Matevosyan_4_107.AssemblyInfo.cs
+C:\Users\Revision\source\repos\Matevosyan_4_107\Matevosyan_4_107\obj\Debug\net6.0\Matevosyan_4_107.csproj.CoreCompileInputs.cache
+C:\Users\Revision\source\repos\Matevosyan_4_107\Matevosyan_4_107\bin\Debug\net6.0\Matevosyan_4_107.exe
+C:\Users\Revision\source\repos\Matevosyan_4_107\Matevosyan_4_107\bin\Debug\net6.0\Matevosyan_4_107.deps.json
+C:\Users\Revision\source\repos\Matevosyan_4_107\Matevosyan_4_107\bin\Debug\net6.0\Matevosyan_4_107.runtimeconfig.json
+C:\Users\Revision\source\repos\Matevosyan_4_107\Matevosyan_4_107\bin\Debug\net6.0\Matevosyan_4_107.dll
+C:\Users\Revision\source\repos\Matevosyan_4_107\Matevosyan_4_107\bin\Debug\net6.0\Matevosyan_4_107.pdb
+C:\Users\Revision\source\repos\Matevosyan_4_107\Matevosyan_4_107\obj\Debug\net6.0\Matevosyan_4_107.dll
+C:\Users\Revision\source\repos\Matevosyan_4_107\Matevosyan_4_107\obj\Debug\net6.0\refint\Matevosyan_4_107.dll
+C:\Users\Revision\source\repos\Matevosyan_4_107\Matevosyan_4_107\obj\Debug\net6.0\Matevosyan_4_107.pdb
+C:\Users\Revision\source\repos\Matevosyan_4_107\Matevosyan_4_107\obj\Debug\net6.0\Matevosyan_4_107.genruntimeconfig.cache
+C:\Users\Revision\source\repos\Matevosyan_4_107\Matevosyan_4_107\obj\Debug\net6.0\ref\Matevosyan_4_107.dll
